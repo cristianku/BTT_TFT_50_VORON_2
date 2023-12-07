@@ -11,7 +11,7 @@ The TFT 70 screen from BigTreeTech is a high-quality display, and this adapter e
 
 ## Features
 
-- **TFT 70 Compatibility:** Specifically designed for use with the BigTreeTech TFT 70 screen.
+- **TFT 50 Compatibility:** Specifically designed for use with the BigTreeTech TFT 70 screen.
   
 - **Voron 2.4 Support:** Ensures seamless integration with the Voron 2.4 3D printer.
 
